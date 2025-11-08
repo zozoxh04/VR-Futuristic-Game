@@ -93,7 +93,7 @@ If the download is a `.zip` file, extract it **before** running the game.
 
 ## Credits
 Developed in **Unity**  
-Created by: *Your Name or Team Name*
+Created by: *Zahra Hashem*
 
 ---
 
